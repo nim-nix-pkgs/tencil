@@ -9,7 +9,7 @@
   
   inputs.src-tencil-main.flake = false;
   inputs.src-tencil-main.owner = "enimatek-nl";
-  inputs.src-tencil-main.ref   = "refs/heads/main";
+  inputs.src-tencil-main.ref   = "main";
   inputs.src-tencil-main.repo  = "tencil";
   inputs.src-tencil-main.type  = "github";
   
