@@ -11,6 +11,7 @@
   inputs.src-tencil-main.ref   = "refs/heads/main";
   inputs.src-tencil-main.owner = "enimatek-nl";
   inputs.src-tencil-main.repo  = "tencil";
+  inputs.src-tencil-main.dir   = "";
   inputs.src-tencil-main.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
