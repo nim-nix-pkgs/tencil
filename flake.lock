@@ -69,11 +69,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1656301298,
-        "narHash": "sha256-1RvR5rmK7zwXbOJZ9zD74hIGu+XOfwBvZol7MYu3ZFM=",
+        "lastModified": 1656747156,
+        "narHash": "sha256-VkC0SQbbQVO2FroMt6S11pJOTb3xyBw4AoJw+SH+WrM=",
         "owner": "nim-nix-pkgs",
         "repo": "tencil",
-        "rev": "aae579f26fb1b2c4a6b317c1298589ce727f6778",
+        "rev": "546e003cd4073e48e0c622a7edc9c13a76b419b6",
         "type": "github"
       },
       "original": {
